@@ -1,0 +1,5 @@
+/*
+ 
+    This is the main file of the scripts in the project
+
+*/
